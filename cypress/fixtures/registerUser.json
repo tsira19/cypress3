@@ -1,5 +1,5 @@
 {
-    "email": "testuser",
+    "email": "tsira.112@gmail.com",
     "password": "password123",
     "userName": "testUser",
     "firstName": "testFirstName",
@@ -8,8 +8,8 @@
     "day": "9",
     "month" : "January",
     "year": "2003",
-    "adress": "tbilisi",
-    "country": "Georgia",
+    "address": "tbilisi",
+    "country": "India",
     "state": "tbilisi",
     "city": "telavi",
     "zipcode": "0103",
