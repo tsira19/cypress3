@@ -1,0 +1,18 @@
+{
+    "email": "testuser",
+    "password": "password123",
+    "userName": "testUser",
+    "firstName": "testFirstName",
+    "lastName": "testLastName",
+    "title": "Mr",
+    "day": "9",
+    "month" : "January",
+    "year": "2003",
+    "adress": "tbilisi",
+    "country": "Georgia",
+    "state": "tbilisi",
+    "city": "telavi",
+    "zipcode": "0103",
+    "phone": "597036091"
+}
+  
